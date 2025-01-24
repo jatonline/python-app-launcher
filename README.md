@@ -15,7 +15,7 @@ A Python app launcher with a Streamlit app.
    git clone https://github.com/jatonline/python-app-launcher.git
    ```
 
-3. Run the app. On Windows, double-click `launch.bat` and on Mac/Linux, double-click `launch.sh`.
+3. Run the app by navigating to the directory that Git just created. On Windows, double-click `launch.bat` and on Mac/Linux, double-click `launch`.
 
 ## Licence
 
