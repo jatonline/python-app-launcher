@@ -4,6 +4,22 @@ A Python app launcher with a Streamlit app.
 
 ## Instructions
 
+## Automatic install
+
+Windows:
+
+```shell
+powershell -ExecutionPolicy ByPass -c "irm https://raw.githubusercontent.com/jatonline/python-app-launcher/refs/heads/main/installer/install.ps1 | iex"
+```
+
+Mac/Linux:
+
+```shell
+curl -LsSf https://raw.githubusercontent.com/jatonline/python-app-launcher/refs/heads/main/installer/install.sh | sh
+```
+
+## Manual install
+
 1. Install the prerequistites:
 
    1. [Install Git](https://git-scm.com/downloads)
